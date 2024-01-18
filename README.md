@@ -1,2 +1,2 @@
 # classwork
-todays github work
+2nd day with github work
